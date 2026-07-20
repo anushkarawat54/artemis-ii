@@ -18,3 +18,17 @@ button{
     font-size: medium;
     margin-right: 25px;
 }
+.midsec{
+    box-sizing: border-box;
+    border: 2px solid black;
+    height: 300px;
+    width: 100%;
+    padding: 5px;
+    margin: 20px;
+}
+img{
+    box-sizing: border-box;
+    height: 200px;
+    float: left;
+    margin: 3px;
+}
